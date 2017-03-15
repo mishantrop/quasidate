@@ -1,0 +1,9 @@
+Changelog for quasiDate.
+
+quasiDate 1.1.0 pl
+==============
+* Second commit.
+
+quasiDate 1.0.0 pl
+==============
+* First commit.
