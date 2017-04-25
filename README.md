@@ -10,3 +10,5 @@ Placeholder `[[+createdon]]` contains unix timestamp.
 [[+createdon:quasiDate=\`%j %month %Y\` &cultureKey=\`ua\`]]
 ## Result ##
 5 липня 1992
+# Roadmap #
+* Weekday
