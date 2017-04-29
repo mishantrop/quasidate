@@ -11,4 +11,4 @@ Placeholder `[[+createdon]]` contains unix timestamp.
 ## Result ##
 5 липня 1992
 # Roadmap #
-* Weekday
+* TypeScript
