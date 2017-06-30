@@ -1,2 +1,2 @@
-# quasiFavicon
-A MODX extra for generating favicons and their associated files.
+# quasiDate
+quasiDate is a MODX Revolution Extra that formats dates.
