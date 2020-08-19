@@ -1,14 +1,15 @@
 # quasiDate
 quasiDate is a MODX Revolution Extra that formats dates.
-# Usage #
+
+## Examples ##
 Placeholder `[[+createdon]]` contains unix timestamp.
-## Example 1 ##
+
+### Source ###
 [[+createdon:quasiDate=\`%j %month %Y\`]]
-## Result ##
+### Result ###
 5 июля 1992
-## Example 2 ##
+
+### Source ###
 [[+createdon:quasiDate=\`%j %month %Y\` &cultureKey=\`ua\`]]
-## Result ##
+### Result ###
 5 липня 1992
-# Roadmap #
-* TypeScript
